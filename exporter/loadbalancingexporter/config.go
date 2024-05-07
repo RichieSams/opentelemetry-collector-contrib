@@ -17,6 +17,7 @@ const (
 	svcRouting
 	metricNameRouting
 	resourceRouting
+	streamIDRouting
 )
 
 const (
